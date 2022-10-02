@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Pratapchandradeo)
 
-I am a full-stack Web Devloper. I love programming, speaking and traveling.<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="100" />
+I am a full-stack Web Devloper. I love programming, speaking and traveling.<img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/developer.gif?row=true" width="100" />
 
 As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -19,12 +19,12 @@ As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivoca
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently Learning full-stack Web Devloper at Masai;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/pratap1999/);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/developer.gif?row=true" width="21" />&nbsp;&nbsp; I’m currently Learning full-stack Web Devloper at Masai;
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/pratap1999/);
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 <!-- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://); -->
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pratapchandradeo@gmail.com ;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1P_x9s5ZVwxMvEk7gF4Cx7pGjHgM4IBpy/view?usp=sharing).
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pratapchandradeo@gmail.com ;
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1P_x9s5ZVwxMvEk7gF4Cx7pGjHgM4IBpy/view?usp=sharing).
 
 </br>
 </br>
