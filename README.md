@@ -49,7 +49,8 @@ As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivoca
    ![Pratap's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratapchandradeo&theme=rogue) 
 
 
- ![Pratap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratapchandradeo&show_icons=true&theme=dark) ![Pratap's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratapchandradeo&theme=dark) 
+ ![Pratap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratapchandradeo&show_icons=true&theme=dark) 
+ ![Pratap's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratapchandradeo&theme=dark) 
 
 <!--  -->
 
