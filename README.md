@@ -35,13 +35,30 @@ As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivoca
 </br>
 </br>
 
+## 🛠 My Toolkit : 
+
+<div>
+
+ [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg)
+
+</div>
+
+
+## Current Stats:
+
+|   ![Pratap's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratapchandradeo&theme=rogue) |
+| :---: |
+
+| ![Pratap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratapchandradeo&show_icons=true&theme=dark) | ![Pratap's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratapchandradeo&theme=dark) 
+
+<!--  -->
 
 
 
 
-**My GitHub Stats:**
+
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratapchandradeo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratapchandradeo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
