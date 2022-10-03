@@ -44,7 +44,8 @@ As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivoca
 </div>
 
 </br>
-### Current Stats:
+
+## Current Stats:
 
    |   ![Pratap's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratapchandradeo&theme=rogue) |
 | :---: |
