@@ -1,5 +1,5 @@
 ### Hi there, I'm <a href="https://pratapchandradeo.github.io/" target="_blank">Pratap Chandra Deo</a> 👋
-[![Pratap's GitHub Banner](https://drive.google.com/file/d/10ffduUF0FRRFDCyxxzFtTwSD-KCy964W/view?usp=sharing)](https://pratapchandradeo.github.io/)
+[![Pratap-Chandra-Deo.png](https://i.postimg.cc/brPHP004/Pratap-Chandra-Deo.png)]()
 
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratap-chandra-deo-a97187222/)
