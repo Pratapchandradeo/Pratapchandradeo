@@ -1,9 +1,10 @@
 ### Hi there, I'm <a href="https://pratapchandradeo.github.io/" target="_blank">Pratap Chandra Deo</a> 👋
+[![Pratap's GitHub Banner](https://www.canva.com/design/DAFlhi4xewQ/eJ6OfJ0QIv70PDqRm1vcVA/view?utm_content=DAFlhi4xewQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)](https://pratapchandradeo.github.io/)
 
-
+<!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratap-chandra-deo-a97187222/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pratapchandradeo.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pratap2429)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pratap2429) -->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pratap-chandra-deo-a97187222/">
