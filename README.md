@@ -1,5 +1,5 @@
-### Hi there, I'm <a href="https://pratapchandradeo.github.io/" target="_blank">Pratap Chandra Deo</a> 👋
-[![Pratap-Chandra-Deo.png](https://i.postimg.cc/brPHP004/Pratap-Chandra-Deo.png)]()
+
+![Pratap-Chandra-Deo-1.png](https://i.postimg.cc/6qNrLVyY/Pratap-Chandra-Deo-1.png)
 
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratap-chandra-deo-a97187222/)
@@ -20,18 +20,17 @@
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center"><img src="https://i.postimg.cc/ZqHPFvrS/developer.gif?row=true" width="100" /> <img src="https://komarev.com/ghpvc/?username=Pratapchandradeo&label=Profile%20views&color=0e75b6&style=flat" alt="Pratapchandradeo" /> </div>
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym) -->
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Pratapchandradeo)
+### Glad to see you here! &nbsp; 
+I'm Pratap, a Full-Stack Web Developer based in Bhubaneswar, Odisha, Who is passionate about building user-friendly, easy-to-use applications, I like to explore new trends and learn new technologies. I'm Currently learning Java, SpringBoot, MySQL and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community.
 
-I am a full-stack Web Devloper. I love programming, speaking and traveling.<img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/developer.gif?row=true" width="100" />
 
-As a Web Devloper, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://i.postimg.cc/hj9B5gtc/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
