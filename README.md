@@ -27,7 +27,10 @@
 
 
 ### Glad to see you here! &nbsp; 
-I'm Pratap, a Full-Stack Web Developer based in Bhubaneswar, Odisha, Who is passionate about building user-friendly, easy-to-use applications, I like to explore new trends and learn new technologies. I'm Currently learning Java, SpringBoot, MySQL and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community.
+A passionate Full Stack Web Developer with a Master’s in Computer Application and comprehensive hands-on
+experience in Java and JavaScript frameworks. Demonstrated expertise in building scalable web applications and
+RESTful services, backed by robust knowledge of databases and modern backend technologies. Proven track record of
+individual project management and collaborative team success, with a keen interest in developing user-centric solutions.
 
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/hj9B5gtc/coding.gif?raw=true" width="408" height="318" />
@@ -39,7 +42,7 @@ I'm Pratap, a Full-Stack Web Developer based in Bhubaneswar, Odisha, Who is pass
 - <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 <!-- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://); -->
 - <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pratapchandradeo@gmail.com 
-- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1P_x9s5ZVwxMvEk7gF4Cx7pGjHgM4IBpy/view?usp=sharing).
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1CI7Gbd8ENm99s6vFNdz61bDWqZqhHF-Q/view?usp=drive_link).
 
 </br>
 </br>
