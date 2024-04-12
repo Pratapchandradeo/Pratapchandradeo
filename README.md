@@ -57,7 +57,7 @@ individual project management and collaborative team success, with a keen intere
 
 <div>
 
- [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git,reactjs)](https://skills.thijs.gg)
 
 </div>
 
