@@ -89,8 +89,6 @@ A results-driven Software Engineer with 3+ years of experience in full-stack dev
 
 ![Pratap's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratapchandradeo&theme=react-dark&hide_border=true&area=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratapchandradeo&layout=compact&theme=dark&hide_border=true)
-
 </div>
 
 <br/>
