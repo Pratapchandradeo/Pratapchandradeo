@@ -32,7 +32,7 @@ A results-driven Software Engineer with 3+ years of experience in full-stack dev
 - <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/pratap1999/)
 - <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pratapchandradeo@gmail.com 
-- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]([https://drive.google.com/file/d/14JPo80nqhPzpPoVPD5hdvp_MP-7hWMXC/view?usp=sharing](https://drive.google.com/file/d/1LI3A38D3VMcJ1_yLxRRbqMJw_VQjuGqa/view?usp=drive_link))
+- <img src="https://github.com/Pratapchandradeo/Pratapchandradeo/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1LI3A38D3VMcJ1_yLxRRbqMJw_VQjuGqa/view?usp=drive_link)
 
 <br/>
 <br/>
