@@ -24,7 +24,7 @@
 
 A results-driven Software Engineer with 3+ years of experience in full-stack development, specializing in scalable web applications and secure API design. Proficient in JavaScript, Node.js, React.js, and database management, with hands-on experience in AWS/Azure environments. Skilled in agile development, technical documentation, and delivering user-centric solutions in high-performance settings.
 
-<img align="right" alt="GIF" src="https://i.postimg.cc/hj9B5gtc/coding.gif?raw=true" width="408" height="318" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratapchandradeo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 **Talking about Personal Stuffs:**
 
@@ -37,9 +37,6 @@ A results-driven Software Engineer with 3+ years of experience in full-stack dev
 <br/>
 <br/>
 <br/>
-![Pratap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratapchandradeo&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratapchandradeo&layout=compact)
 
 ## 🛠 Technical Skills
 
