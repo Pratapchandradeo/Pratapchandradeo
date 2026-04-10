@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;3%2B+Years+of+Experience+%E2%9C%A8;Building+Scalable+Web+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;3.5%2B+Years+of+Experience+%E2%9C%A8;Building+Scalable+Web+Apps+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 About Me
 
-A results-driven **Software Engineer** with **3+ years of experience** in full-stack development, specializing in scalable web applications and secure API design. Passionate about clean code, cloud architecture, and solving complex technical challenges.
+A results-driven **Software Engineer** with **3.5+ years of experience** in full-stack development, specializing in scalable web applications and secure API design. Passionate about clean code, cloud architecture, and solving complex technical challenges.
 
 | 🏢 | Junior Programmer @ **NIT Warangal** |
 |---|---|
